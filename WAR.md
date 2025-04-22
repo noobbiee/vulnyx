@@ -150,9 +150,11 @@ smbmap --no-banner -H 192.168.0.59
 ```
 
 # lets look into the web server
-
-
 ```
+http://192.168.0.59:8080/
+```
+```
+
 
 
 

@@ -154,6 +154,7 @@ smbmap --no-banner -H 192.168.0.59
 http://192.168.0.59:8080/
 ```
 ```
+![apche_tom_cat_war](https://github.com/user-attachments/assets/5adb2a2d-9e57-476f-8eec-6defc8d14ede)
 
 
 

@@ -39,13 +39,16 @@ we got all the open ports
 
 # lets check if we can access the smb without username and password
 
-![Screenshot from 2025-05-02 10-48-53](https://github.com/user-attachments/assets/c08074b8-92bf-461f-ab1f-21b8f7e3cff1)
+![Screenshot from 2025-05-02 16-25-09](https://github.com/user-attachments/assets/a9040c69-c9dc-4fa2-b511-0d0aa7e30108)
 
-![Screenshot from 2025-05-02 10-49-07](https://github.com/user-attachments/assets/ba72ec21-1b8f-4223-b3e4-0eed704d87d5)
+![Screenshot from 2025-05-02 16-47-04](https://github.com/user-attachments/assets/8f2961b3-c5a3-478f-9072-7510cd850d01)
 
-![Screenshot from 2025-05-02 10-49-17](https://github.com/user-attachments/assets/46f84e33-051d-4f9e-82b6-5c2663c64c27)
+![Screenshot from 2025-05-02 16-47-37](https://github.com/user-attachments/assets/4ed5a57c-d7c5-4aa1-84eb-342b7561ae73)
 
-![Screenshot from 2025-05-02 10-49-27](https://github.com/user-attachments/assets/8c3153bb-46b4-452b-9d27-0571f474b0ae)
+![Screenshot from 2025-05-02 16-48-10](https://github.com/user-attachments/assets/0282f645-899e-4d5b-bd6d-c07c67d7a4fd)
+
+![Screenshot from 2025-05-02 16-48-43](https://github.com/user-attachments/assets/e7b0cd18-c875-4acf-b7e4-69a04503b4e8)
+
 
 # lets take a look into the port 80
 

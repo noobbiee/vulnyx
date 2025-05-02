@@ -60,5 +60,10 @@ As you can see i have found files in the website lets take a look into it
 Looks like we got ourselves a username hope from the file 
 lets try to bruteforce into the account hope
 
+# Bruteforce the password using nxc
+
+![Screenshot from 2025-05-02 14-51-32](https://github.com/user-attachments/assets/fcdf4b49-45d1-4765-b73d-06ac46864a6f)
+
+![Screenshot from 2025-05-02 14-51-50](https://github.com/user-attachments/assets/82d93a3a-f612-4a00-83d4-43186a22ddd4)
 
 

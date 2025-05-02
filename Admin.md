@@ -45,6 +45,20 @@ we got all the open ports
 
 # lets take a look into the port 80
 
+![Screenshot from 2025-05-02 11-09-27](https://github.com/user-attachments/assets/a714c7e5-83a7-4994-abd9-b66633c8f76a)
+
 ![Screenshot from 2025-05-02 10-52-12](https://github.com/user-attachments/assets/431fb516-4d1f-4927-8983-74d0f79cbaa5)
+
+# now lets try to see if we can bruteforce some of the directories/files in the websites
+
+![Screenshot from 2025-05-02 11-40-20](https://github.com/user-attachments/assets/0749538e-1d0c-4531-aa7d-9b13d27ce14f)
+
+As you can see i have found files in the website lets take a look into it
+
+![Screenshot from 2025-05-02 11-43-19](https://github.com/user-attachments/assets/df4aa0b2-227d-4811-9c1d-51bc9e1a6722)
+
+Looks like we got ourselves a username hope from the file 
+lets try to bruteforce into the account hope
+
 
 

@@ -88,7 +88,8 @@ evil
 
 ![Screenshot from 2025-05-03 12-52-51](https://github.com/user-attachments/assets/89c831e3-7a35-4b19-9aca-6db9ce1411e5)
 
-![Screenshot from 2025-05-03 12-54-01](https://github.com/user-attachments/assets/f4d788c7-1d07-4572-8ea8-23f0bdb370ae)
+![user_flag](https://github.com/user-attachments/assets/8769221c-6631-4596-9e1d-fff2a506d9e2)
+
 
 We have successfully got the flags for the user 
 lets try to see if we have access to the administrator account
@@ -133,12 +134,14 @@ Lets try to log in to the account using the credentials we got in our hands
 
 we can navigate and get our hands into the flags
 
+![admin_flag](https://github.com/user-attachments/assets/7d81062c-e948-48fd-bd9c-21581206d897)
 
-![Screenshot from 2025-05-03 13-27-20](https://github.com/user-attachments/assets/7ae9d9e1-c860-4ab1-8ad8-77e8eeaea3f4)
+
 
 ![Screenshot from 2025-05-03 13-27-55](https://github.com/user-attachments/assets/9da09871-a3f8-4a7b-ab97-685b26522d1b)
 
-![Screenshot from 2025-05-03 13-28-37](https://github.com/user-attachments/assets/d2631877-0600-4ad7-89f5-bfe497682ae3)
+![admin_flag2](https://github.com/user-attachments/assets/6db33c2a-68a3-4973-b37a-6301bcc979f1)
+
 
 We have successfully been able to compromise our host and performed data exfiltration. 
 

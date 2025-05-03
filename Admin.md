@@ -1,41 +1,43 @@
 # lets scan and try to find our target
 
-![arp-scan](https://github.com/user-attachments/assets/681e45e7-ab0c-48c8-bc90-152bd2210410)
+![arp-scan](https://github.com/user-attachments/assets/e5e4f865-1a97-4d9d-822f-a3ba2b101c14)
+
 
 
 We have all the ip addresses in the network
 
 lets ping and see if any targets respond
+![ping](https://github.com/user-attachments/assets/3604ee9b-569e-4084-8bf4-7074f1e16c25)
 
-![ping](https://github.com/user-attachments/assets/c77082b2-4c6a-4e88-b38e-1dd6de486f09)
 
 
 since the target responded it is alive and returned with the ttl value of 128, so it says that the target is a
 windows machine
 
 # Nmap scan
-# open ports
-![open_ports_scan](https://github.com/user-attachments/assets/e7610fa3-aefb-476c-9355-0b5462eeb2d0)
+# open  ports
+
+![Screenshot from 2025-05-03 10-01-24](https://github.com/user-attachments/assets/6ca82070-9162-40a4-b52e-658c3b4ed75c)
+
+![Screenshot from 2025-05-03 10-07-42](https://github.com/user-attachments/assets/bcbf99ea-2157-412a-a896-9f4d5a3fd035)
 
 
-![Screenshot from 2025-05-02 15-00-59](https://github.com/user-attachments/assets/3e255f98-9884-41ce-863b-5adbe83bfafa)
 
 we got all the open ports
 
 # scv scan
-![Screenshot from 2025-05-02 15-15-50](https://github.com/user-attachments/assets/04aced70-30b1-43f7-9885-b71cb7b8fc44)
+![Screenshot from 2025-05-03 10-03-57](https://github.com/user-attachments/assets/346186e8-8b7e-4ff0-b001-5ac7b9d591db)
 
-![Screenshot from 2025-05-02 15-17-22](https://github.com/user-attachments/assets/70ad8698-86f4-4e9e-94ad-97364b24cbe7)
+![Screenshot from 2025-05-03 10-06-12](https://github.com/user-attachments/assets/669824df-048e-47a0-b6a9-c1e25b4759ef)
 
-![Screenshot from 2025-05-02 15-17-41](https://github.com/user-attachments/assets/48acc45d-a230-48c0-b339-6364304b4c73)
+![Screenshot from 2025-05-03 10-06-23](https://github.com/user-attachments/assets/058cf2c2-bed9-4e65-a6e4-f5fb092148f7)
+
 
 
 # script vulnerability
 
-![Screenshot from 2025-05-02 15-22-10](https://github.com/user-attachments/assets/083057c8-0718-4bad-a486-a1aa3520f3dd)
+![Screenshot from 2025-05-03 10-23-31](https://github.com/user-attachments/assets/89b2f4e6-a3d9-491e-8a76-f16010298a0e)
 
-
-![Screenshot from 2025-05-02 15-29-38](https://github.com/user-attachments/assets/7d458517-fc18-4027-899a-dd9092450630)
 
 # lets check if we can access the smb without username and password
 

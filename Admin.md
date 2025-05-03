@@ -60,9 +60,12 @@ we got all the open ports
 
 # now lets try to see if we can bruteforce some of the directories/files in the websites
 
+![Screenshot from 2025-05-03 10-47-08](https://github.com/user-attachments/assets/a048f341-c33f-4eb6-a814-dd9d8334b752)
 
 
 As you can see i have found files in the website lets take a look into it
+
+![Screenshot from 2025-05-03 10-47-50](https://github.com/user-attachments/assets/220e6034-9737-432f-8ce8-d1c345d0d2e9)
 
 
 
@@ -71,8 +74,9 @@ lets try to bruteforce into the account hope
 
 # Bruteforce the password using nxc
 
-![Screenshot from 2025-05-02 14-51-32](https://github.com/user-attachments/assets/fcdf4b49-45d1-4765-b73d-06ac46864a6f)
+![Screenshot from 2025-05-03 10-50-28](https://github.com/user-attachments/assets/bfd09bc8-4a47-4a57-a670-06f63106ff10)
 
-![Screenshot from 2025-05-02 14-51-50](https://github.com/user-attachments/assets/82d93a3a-f612-4a00-83d4-43186a22ddd4)
+![Screenshot from 2025-05-03 10-50-45](https://github.com/user-attachments/assets/c2097799-d1b1-4c86-ab27-e268dfc45a6f)
 
+We were able to get the password to the account hope
 

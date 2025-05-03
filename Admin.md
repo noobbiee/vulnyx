@@ -79,4 +79,67 @@ lets try to bruteforce into the account hope
 ![Screenshot from 2025-05-03 10-50-45](https://github.com/user-attachments/assets/c2097799-d1b1-4c86-ab27-e268dfc45a6f)
 
 We were able to get the password to the account hope
+lets check the username and password
+evil
+![Screenshot from 2025-05-03 12-49-26](https://github.com/user-attachments/assets/9d95e0dd-9626-4dcc-8123-93bbcfbf5042)
+
+# logging into the user account
+# evil-winrm
+
+![Screenshot from 2025-05-03 12-52-51](https://github.com/user-attachments/assets/89c831e3-7a35-4b19-9aca-6db9ce1411e5)
+
+![Screenshot from 2025-05-03 12-54-01](https://github.com/user-attachments/assets/f4d788c7-1d07-4572-8ea8-23f0bdb370ae)
+
+We have successfully got the flags for the user 
+lets try to see if we have access to the administrator account
+
+![Screenshot from 2025-05-03 12-56-41](https://github.com/user-attachments/assets/df4f9c6d-b4d6-407b-b3e2-7d7bd5f717f2)
+
+we can get into the directory but we dont have any permissions. lets try to escalate our privilege
+
+# Privilege escalation
+
+We will use the winpeas.bat and execute it for privilige escaltion
+```
+https://github.com/peass-ng/PEASS-ng/tree/master/winPEAS/winPEASbat
+```
+i will clone the repo and use it 
+The script looks for possible way to escalate privilege windows host. the details explanation on how it works are provided in the 
+```
+https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/integrity-levels.html
+```
+
+![Screenshot from 2025-05-03 13-03-58](https://github.com/user-attachments/assets/ab8b92a0-4fbe-4640-b2f2-bd8f5cca5738)
+
+move the script in your working directory where you started the evil-winrm
+you can upload it and execute in the window host
+
+![Screenshot from 2025-05-03 13-07-01](https://github.com/user-attachments/assets/b1cac7d6-0e8a-4f6c-b2a1-2a3564fc6022)
+
+Since the output is on the spanish we will need to translate it. i translated the output using chatgpt
+use the resources at your disposal.
+
+![Screenshot from 2025-05-03 13-10-07](https://github.com/user-attachments/assets/a77598c9-ae37-42c1-ba43-5400e58d4a89)
+
+lets try to navigate into the directory to view the file.
+
+![Screenshot from 2025-05-03 13-12-45](https://github.com/user-attachments/assets/12b19876-dc40-4e58-9423-a3f964ed12d7)
+
+
+We found some information that are very interesting. we got the username and password for the administrator account
+Lets try to log in to the account using the credentials we got in our hands
+
+![Screenshot from 2025-05-03 13-25-15](https://github.com/user-attachments/assets/2aa142b8-4b7d-4ef9-8a7e-b7c22fab02c6)
+
+we can navigate and get our hands into the flags
+
+
+![Screenshot from 2025-05-03 13-27-20](https://github.com/user-attachments/assets/7ae9d9e1-c860-4ab1-8ad8-77e8eeaea3f4)
+
+![Screenshot from 2025-05-03 13-27-55](https://github.com/user-attachments/assets/9da09871-a3f8-4a7b-ab97-685b26522d1b)
+
+![Screenshot from 2025-05-03 13-28-37](https://github.com/user-attachments/assets/d2631877-0600-4ad7-89f5-bfe497682ae3)
+
+We have successfully been able to compromise our host and performed data exfiltration. 
+
 

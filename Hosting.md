@@ -38,3 +38,25 @@
 
 ![Screenshot from 2025-05-19 14-36-30](https://github.com/user-attachments/assets/a7a31f8f-db6f-49ea-b28a-f987c60bcff9)
 
+# lets check the directory that we got while bruteforcing
+
+![Screenshot from 2025-05-19 16-03-45](https://github.com/user-attachments/assets/c95a0560-ca34-4ec0-9724-3a75be998838)
+
+lets take all the members username on the email that they have, we can also save the email for phising
+attack
+
+![Screenshot from 2025-05-19 16-06-28](https://github.com/user-attachments/assets/f2d1f572-4e5b-4bc3-9ccb-9cfb4a7f017e)
+
+# lets try to bruteforce the password of the users that we got
+
+![Screenshot from 2025-05-19 16-08-51](https://github.com/user-attachments/assets/e57bfa44-c0dc-4cdf-9df4-f37f9574db4f)
+
+![Screenshot from 2025-05-19 16-09-07](https://github.com/user-attachments/assets/0f3e1367-b510-42ad-a569-8573739c9d91)
+
+# lets log in using the password that we got and see all the shares and users in the smb
+
+![Screenshot from 2025-05-19 18-47-45](https://github.com/user-attachments/assets/257cff8d-8d00-4dd8-be86-c34e4519e9f3)
+
+
+
+

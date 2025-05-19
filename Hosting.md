@@ -20,9 +20,21 @@
 
 ![Screenshot from 2025-05-16 19-19-49](https://github.com/user-attachments/assets/3b9762d2-2351-4f7a-a790-233372fd9412)
 
-# lets can for vulnerabilities
+# lets scan for vulnerabilities
 
 ![Screenshot from 2025-05-16 19-21-19](https://github.com/user-attachments/assets/5e661dd9-489a-4741-a7a8-bbd74f664362)
 
 ![Screenshot from 2025-05-16 19-21-37](https://github.com/user-attachments/assets/60936fd7-50f3-4c7a-964c-f7abd161fa17)
+
+# lets see what is running in the web-server
+
+![Screenshot from 2025-05-19 14-25-09](https://github.com/user-attachments/assets/8cfa3e9a-f6af-4dc9-966f-0e34bf074071)
+
+# lets scan for web vulnerablilites using nikto
+
+![Screenshot from 2025-05-19 14-25-23](https://github.com/user-attachments/assets/95a7d967-13b5-474b-b3e3-6fef2cf00f04)
+
+# lets bruteforce some directories
+
+![Screenshot from 2025-05-19 14-36-30](https://github.com/user-attachments/assets/a7a31f8f-db6f-49ea-b28a-f987c60bcff9)
 

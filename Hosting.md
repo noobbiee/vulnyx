@@ -57,6 +57,22 @@ attack
 
 ![Screenshot from 2025-05-19 18-47-45](https://github.com/user-attachments/assets/257cff8d-8d00-4dd8-be86-c34e4519e9f3)
 
+As you can see we got new users we can copy it into our users list. we also can see there is a description written in
+whgich we can use to try and log in.
+lets see if the description is the password for any of the users that we got
 
+![Screenshot from 2025-05-20 11-56-04](https://github.com/user-attachments/assets/1fbfc29b-d299-48b8-893d-96f09c9fbeee)
+
+now we got the username and password
+
+# lets log in using the evil-winrm
+
+![Screenshot from 2025-05-20 11-58-02](https://github.com/user-attachments/assets/0f6f9ac4-1f37-42e8-a549-1d6e225932ca)
+
+# lets check for the permissions on this account
+
+![Screenshot from 2025-05-20 12-06-12](https://github.com/user-attachments/assets/cf660fb7-db89-457c-aeb0-ed51539b973d)
+
+We can see the all the permissions on this account, use the availoable translator to view the permissions.
 
 

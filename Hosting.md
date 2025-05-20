@@ -74,5 +74,21 @@ now we got the username and password
 ![Screenshot from 2025-05-20 12-06-12](https://github.com/user-attachments/assets/cf660fb7-db89-457c-aeb0-ed51539b973d)
 
 We can see the all the permissions on this account, use the availoable translator to view the permissions.
+# SebackupPrivilege
+Please refer to the link below for further explanation of the SebackupPrivilige
+'''
+https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook/blob/master/Notes/SeBackupPrivilege.md
+'''
 
+# Privilege escalation
+We will need to get access to access the registry where the hashes are stored. normally we are not able to access it
+but due to the sebackupprivilige enabled we can access the reistry and save it in a file and export it and use to pass
+the hash.
 
+![Screenshot from 2025-05-20 12-47-26](https://github.com/user-attachments/assets/6be91376-4d5b-4f91-bde2-447ac3303187)
+
+![Screenshot from 2025-05-20 14-06-30](https://github.com/user-attachments/assets/392a9254-5218-4dbf-a5ce-e76492895b10)
+
+![Screenshot from 2025-05-20 14-06-02](https://github.com/user-attachments/assets/43f675db-b404-4b84-8263-dba056a48191)
+
+![Screenshot from 2025-05-20 14-14-59](https://github.com/user-attachments/assets/1242d2e9-d13b-4ff5-99d7-b6b12ce97961)

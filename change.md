@@ -24,3 +24,23 @@ As you can see we got the target ip address, it is online and is running windows
 
 ![Screenshot from 2025-05-21 18-18-54](https://github.com/user-attachments/assets/0067d582-2120-4e3e-a0aa-eacba7e0064b)
 
+# smb enumeration
+
+![Screenshot from 2025-05-21 19-54-40](https://github.com/user-attachments/assets/66000ae7-e589-479c-b40c-8ae3964ee9f5)
+
+
+# lets see if we can any shares 
+
+![Screenshot from 2025-05-21 19-55-04](https://github.com/user-attachments/assets/8974ce9e-cb57-4823-8ff1-e4f3842f527e)
+
+![Screenshot from 2025-05-21 19-55-26](https://github.com/user-attachments/assets/064c6b64-1417-418b-9e78-6073011dd9c6)
+
+
+
+
+
+
+
+
+
+

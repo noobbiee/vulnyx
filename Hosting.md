@@ -76,6 +76,7 @@ now we got the username and password
 We can see the all the permissions on this account, use the availoable translator to view the permissions.
 # SebackupPrivilege
 Please refer to the link below for further explanation of the SebackupPrivilige
+
 '''
 https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook/blob/master/Notes/SeBackupPrivilege.md
 '''

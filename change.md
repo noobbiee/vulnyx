@@ -6,3 +6,4 @@
 
 As you can see we got the target ip address, it is online and is running windows.
 
+# openports

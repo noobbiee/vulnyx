@@ -8,18 +8,6 @@ As you can see we got the target ip address, it is online and is running windows
 
 # openports
 
-#!/bin/bash
+![Screenshot from 2025-05-21 14-36-30](https://github.com/user-attachments/assets/2392e759-b2f9-4d0a-b871-e7229dadbe57)
 
-extractPorts() {
-	ports="$(cat $1 | grep -oP '\d{1,5}/open' | awk '{print $1}' FS='/' | xargs | tr ' ' ',')"
-	ip_address="$(cat $1 | grep -oP '^Host:.*\(\K[^)]+' | head -n 1 | awk '{print $2}')"
-	echo -e "\n[*] Extracting information...\n" > extractPorts.tmp
-	echo -e "\t[*] IP Address: $ip_address" >> extractPorts.tmp
-	echo -e "\t[*] Open ports: $ports\n" >> extractPorts.tmp
-	echo $ports | tr -d '\n' | xclip -sel clip
-	echo -e "[*] Ports copied to clipboard\n" >> extractPorts.tmp
-	cat extractPorts.tmp
-	rm extractPorts.tmp
-}
-
-extractPorts "$@"
+![Screenshot from 2025-05-21 14-37-10](https://github.com/user-attachments/assets/aa789000-04a6-430d-9def-89295da50ae0)

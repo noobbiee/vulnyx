@@ -35,7 +35,15 @@ As you can see we got the target ip address, it is online and is running windows
 
 ![Screenshot from 2025-05-21 19-55-26](https://github.com/user-attachments/assets/064c6b64-1417-418b-9e78-6073011dd9c6)
 
+# lets try to get some usernames from the domain
 
+![Screenshot from 2025-05-22 13-00-41](https://github.com/user-attachments/assets/da370914-0762-436e-a363-4d6a9029efc2)
+
+# lets try to bruteforce into the accont alfredo
+
+![Screenshot from 2025-05-22 13-00-27](https://github.com/user-attachments/assets/ea7a8d72-854c-4345-a3e7-b39be489fe61)
+
+![Screenshot from 2025-05-22 13-00-00](https://github.com/user-attachments/assets/6e369e16-719e-4feb-a4b6-5b4e67212f1c)
 
 
 

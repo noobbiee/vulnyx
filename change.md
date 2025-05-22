@@ -100,4 +100,20 @@ can use to login to the windows system.
 We have succesfully changed the password from the alfredo and used it to sign into the windows domain
 
 # Privilege escalation
+We will use winPEAS script to gain privilige escalation.
+I have downloaded winPEAS from
+'''
+https://github.com/peass-ng/PEASS-ng/releases/latest/download/winPEASany_ofs.exe
+'''
+![Screenshot from 2025-05-22 22-22-07](https://github.com/user-attachments/assets/2ce53137-c658-4343-ba3e-c22eb0a61ff9)
+
+![Screenshot from 2025-05-22 22-20-56](https://github.com/user-attachments/assets/879c1ff9-de87-4650-862c-17d446ec123f)
+
+The information that can be gathered about  the target is vast, what we are looking is for the logon credentials, that we got our hands on. 
+
+![Screenshot from 2025-05-22 22-28-31](https://github.com/user-attachments/assets/db9dfb75-98d0-49a4-8de5-f799b278a529)
+
+![Screenshot from 2025-05-22 22-29-05](https://github.com/user-attachments/assets/5e9fd2b9-a59c-4a3f-ba20-d7d857de9689)
+
+As you can see we have successfully taken over the machine change.
 

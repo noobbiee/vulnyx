@@ -159,7 +159,6 @@ login and upload the data from the sharphound
 
 ![Screenshot from 2025-05-24 21-56-13](https://github.com/user-attachments/assets/ca0bdef5-9b60-4660-b2b3-55d16c9385f0)
 
-![Screenshot from 2025-05-24 21-56-27](https://github.com/user-attachments/assets/625764c2-6f49-4a82-abad-a0e9aed34698)
 
 ![Screenshot from 2025-05-24 21-56-40](https://github.com/user-attachments/assets/5047961c-e5ab-41bb-8f88-085f7b39e1af)
 

@@ -116,6 +116,8 @@ Lets try to bruteforce to account which is part of remote management user
 
 # bruteforce the remote management user
 
+![Screenshot from 2025-05-24 19-37-25](https://github.com/user-attachments/assets/94aff37d-c79d-4a06-b0d1-65da5914823d)
+
 ![Screenshot from 2025-05-24 19-26-12](https://github.com/user-attachments/assets/d6cc0884-a29f-453b-b69b-4fdcb7835c2c)
 
 ![Screenshot from 2025-05-24 19-26-33](https://github.com/user-attachments/assets/4160e27b-9126-4315-a33a-a0693c47459b)

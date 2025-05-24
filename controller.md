@@ -128,15 +128,42 @@ Lets try to bruteforce to account which is part of remote management user
 
 # Privilige Escalation
 
+We are going to upload SharpHound into the window and map the entire domain as winPEAS binary was not able to
+find us any useful information.
 
+![Screenshot from 2025-05-24 21-15-10](https://github.com/user-attachments/assets/00ac002f-ed1c-4000-9656-50b1cf93dbe5)
 
+We are going to open up the python server which will share the Sharphound and winPeas into the system we compromised
 
+![Screenshot from 2025-05-24 21-15-50](https://github.com/user-attachments/assets/1bace549-defa-4035-a4f1-ca2c89a5e7a5)
 
+![Screenshot from 2025-05-24 21-16-06](https://github.com/user-attachments/assets/1090fd40-baa8-44ba-b125-b7002ccfe2d0)
 
+We also have downloaded the zip file, lets unzip it
 
+![Screenshot from 2025-05-24 21-47-57](https://github.com/user-attachments/assets/b553ef3a-6507-4923-814a-33a1283c73b5)
 
+lets start the bloodhound
 
+![Screenshot from 2025-05-24 21-48-09](https://github.com/user-attachments/assets/714296c0-ce60-4ed8-b5dd-c362dd8cc9a7)
 
+login and upload the data from the sharphound
 
+![Screenshot from 2025-05-24 21-08-01](https://github.com/user-attachments/assets/c421ebd0-c242-456d-b600-f88de3732108)
 
+![Screenshot from 2025-05-24 21-12-09](https://github.com/user-attachments/assets/7ccfaad5-8755-48c1-8e61-38481250d670)
 
+![Screenshot from 2025-05-24 21-14-08](https://github.com/user-attachments/assets/96305f32-7758-498b-a4cd-688903aa8d11)
+
+![Screenshot from 2025-05-24 21-14-24](https://github.com/user-attachments/assets/f72a7859-7d4e-4e6d-8c48-f7c3c148ba99)
+
+![Screenshot from 2025-05-24 21-56-13](https://github.com/user-attachments/assets/ca0bdef5-9b60-4660-b2b3-55d16c9385f0)
+
+![Screenshot from 2025-05-24 21-56-27](https://github.com/user-attachments/assets/625764c2-6f49-4a82-abad-a0e9aed34698)
+
+![Screenshot from 2025-05-24 21-56-40](https://github.com/user-attachments/assets/5047961c-e5ab-41bb-8f88-085f7b39e1af)
+
+![Screenshot from 2025-05-24 21-57-10](https://github.com/user-attachments/assets/429e6350-bba2-403d-ad66-530bb1c5abc7)
+
+We have successfully exploited the Controller.
+Thank you!!
